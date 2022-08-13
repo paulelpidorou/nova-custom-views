@@ -4,7 +4,7 @@
 
 <script>
 
-    import ResourceDetail from '@nova/views/Detail'
+    // import ResourceDetail from '@nova/views/Detail'
 
     export default {
         props: {

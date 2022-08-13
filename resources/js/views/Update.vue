@@ -4,7 +4,7 @@
 
 <script>
 
-    import ResourceUpdate from '@nova/views/Update'
+    // import ResourceUpdate from '@nova/views/Update'
 
     export default {
         props: {

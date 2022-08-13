@@ -3,7 +3,7 @@
 </template>
 
 <script>
-    import Dashboard from '@nova/views/Dashboard'
+    // import Dashboard from '@nova/views/Dashboard'
     export default {
         props: {
             component: {

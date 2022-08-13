@@ -11,7 +11,7 @@
 
 <script>
 
-    import Lens from '@nova/views/Lens'
+    // import Lens from '@nova/views/Lens'
 
     export default {
         props: {

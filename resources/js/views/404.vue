@@ -4,7 +4,7 @@
 
 <script>
 
-    import Error404 from '@nova/views/404'
+    // import Error404 from '@nova/views/404'
 
     export default {
         props: {

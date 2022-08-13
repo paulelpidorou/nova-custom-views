@@ -12,7 +12,7 @@
 
 <script>
 
-    import AttachResource from '@nova/views/Attach'
+    // import AttachResource from '@/nova/views/Attach'
 
     export default {
         props: {

@@ -1,13 +1,13 @@
-import Dashboard from '../views/Dashboard'
-import ResourceIndex from '../views/Index'
-import Lens from '../views/Lens'
-import ResourceDetail from '../views/Detail'
-import CreateResource from '../views/Create'
-import UpdateResource from '../views/Update'
-import AttachResource from '../views/Attach'
-import UpdateAttachedResource from '../views/UpdateAttached'
-import Error403 from '../views/403'
-import Error404 from '../views/404'
+import Dashboard from '../views/Dashboard.vue'
+import ResourceIndex from '../views/Index.vue'
+import Lens from '../views/Lens.vue'
+import ResourceDetail from '../views/Detail.vue'
+import CreateResource from '../views/Create.vue'
+import UpdateResource from '../views/Update.vue'
+import AttachResource from '../views/Attach.vue'
+import UpdateAttachedResource from '../views/UpdateAttached.vue'
+import Error403 from '../views/403.vue'
+import Error404 from '../views/404.vue'
 
 
 export default [

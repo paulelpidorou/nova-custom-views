@@ -3,7 +3,7 @@
 </template>
 
 <script>
-    import CreateResource from '@nova/views/Create'
+    // import CreateResource from '@nova/views/Create'
     export default {
         props: {
             resourceName: {

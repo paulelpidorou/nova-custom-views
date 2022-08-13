@@ -4,7 +4,7 @@
 
 <script>
 
-import ResourceIndex from '@nova/views/Index'
+// import ResourceIndex from '@nova/views/Index'
 
 export default {
     props: {

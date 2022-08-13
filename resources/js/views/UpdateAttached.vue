@@ -13,7 +13,7 @@
 
 <script>
 
-    import UpdateAttachedResource from '@nova/views/UpdateAttached'
+    // import UpdateAttachedResource from '@nova/views/UpdateAttached'
 
     export default {
         props: {
